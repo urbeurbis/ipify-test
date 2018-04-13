@@ -13,7 +13,7 @@
 			"Rev": "eb527c8097e0f19a3ff7b253a3fe70545070f420"
 		},
 		{
-			"ImportPath": "github.com/valyala/fasthttp",
+			"ImportPath": "github.com/valyala/fasthttp"
 		}
 	]
 }
